@@ -13,4 +13,13 @@
   convierte js en codigo maquina en lugar de interpretarlo en tiempo real
   *existe un bucle de eventos que se ejecuta constantemente asi que puedes 
   orientar el codigo de forma reactiva.
+
+Event Looop: Asincronia por diseño
+*es un bucle que gestiona de forma asincrona todos los eventos de la
+aplicacion.
+*los eventos inician en el event queue y pasan al event loop si la tarea
+es compleja y toma mas tiempo entonces pasara al thread pool el cual 
+tendra que ejecutar los procesos mas lentos.
+*el thread pool por cada evento levantara un thread individual por cada uno
+
 */
