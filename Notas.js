@@ -30,4 +30,10 @@ Variables de entorno:
 *para enviar las variables de entorno a nuestro programa las ponemos antes
 del archivo al ejecutarse en la terminal asi
  -- NOMBRE=carlos node entorno.js
+
+ Tools: 
+ Nodemon y pm2
+
+ 1)npm install -g nodemon  -- para desarrollo
+ 2)npm install -g pm2   -- para produccion
 */
