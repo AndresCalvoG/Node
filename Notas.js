@@ -22,4 +22,6 @@ es compleja y toma mas tiempo entonces pasara al thread pool el cual
 tendra que ejecutar los procesos mas lentos.
 *el thread pool por cada evento levantara un thread individual por cada uno
 
+MonoHilo: 
+*
 */
