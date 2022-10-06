@@ -24,4 +24,10 @@ tendra que ejecutar los procesos mas lentos.
 
 MonoHilo: 
 *
+
+Variables de entorno:
+*las añadimos con process.env.NAME
+*para enviar las variables de entorno a nuestro programa las ponemos antes
+del archivo al ejecutarse en la terminal asi
+ -- NOMBRE=carlos node entorno.js
 */
