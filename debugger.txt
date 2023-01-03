@@ -1,0 +1,5 @@
+usar el comando node con el flag --inspect
+
+node --inspect file
+
+usar chrome://inspect para debug en el navegador y en la parte de target ir a inspect para abrir la ventana de consola
